@@ -1,0 +1,2 @@
+beginner_tutorials:camera_tutorial:object_detection_package
+-DCATKIN_DEVEL_PREFIX=/home/jovan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jovan/catkin_ws/install -G Unix Makefiles
